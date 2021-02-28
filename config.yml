@@ -1,0 +1,31 @@
+
+#           GravityEffect          #
+
+
+# Hope you enjoy the plugin
+
+# Setting potion time to 99999 makes it infinite!
+
+#==============================================================================#
+
+# What item you want to use for anti gravity and also what slot you want it in.
+
+antigravity-item: FEATHER
+item-slot: 8
+
+
+#==============================================================================#
+
+
+# JUMP EFFECT #
+# Change gravity of jump boosting!
+
+JumpHeight: 5
+JumpTime: 99999
+
+
+# SLOW FALL EFFECT #
+# Change gravity of slow falling!
+
+SlowFalling: 1
+SlowFallingTime: 99999

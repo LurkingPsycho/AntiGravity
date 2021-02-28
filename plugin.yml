@@ -1,0 +1,7 @@
+name: AntiGravity
+description: AntiGravity plugin jump like on the moon!
+version: 4.5
+api-version: 1.16
+main: mc.gravity.moon.AntiGravity
+commands:
+   ag:
